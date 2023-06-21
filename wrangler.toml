@@ -1,0 +1,6 @@
+name = "minet"
+main = "src/index.ts"
+compatibility_date = "2023-04-25"
+kv_namespaces = [
+  { binding = "balances", id = "fa1425f5be28460a824762e78d733da9", preview_id = "5d242a5c53b64e2fb06b7555ca3638c0" },
+]
