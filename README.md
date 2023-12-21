@@ -1,5 +1,5 @@
 # MiNet (Ethereum Alternative Network)
 
-Скрипт для подделки баланса в MetaMask и других Ethereum кошельках 
+> ~~Скрипт для подделки баланса в MetaMask и других Ethereum кошельках~~ (Больше не работает)
 
 ![image](https://github.com/AlexXanderGrib/minet-eth/assets/29816814/70921886-eece-4152-91af-1afb010fccf2)
